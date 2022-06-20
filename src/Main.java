@@ -5,4 +5,4 @@ public class Main {
         SimpleGUI app = new SimpleGUI();
         app.setVisible(true);
     }
-}hhhh
+}
